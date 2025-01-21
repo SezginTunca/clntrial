@@ -329,3 +329,4 @@ if __name__ == "__main__":
     model.plot_advanced_results()
     model.generate_report()
 ```
+New changes
